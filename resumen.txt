@@ -1,0 +1,30 @@
+
+********************* Servidor:A-manduca5 *******************************************
+----------------------------------------------------------------------------
+2011-02-01 17:59:35 -- Ejecutando:  Espacio en disco disponible  --
+----------------------------------------------------------------------------
+Filesystem            kbytes    used   avail capacity  Mounted on
+/dev/md/dsk/d0       10327372 7496457 2727642    74%    /
+/proc                      0       0       0     0%    /proc
+mnttab                     0       0       0     0%    /etc/mnttab
+fd                         0       0       0     0%    /dev/fd
+/dev/md/dsk/d4       4133838 1149134 2943366    29%    /var
+swap                 9099688     224 9099464     1%    /var/run
+swap                 9099560      96 9099464     1%    /tmp
+/dev/md/dsk/d5       18837002 2516759 16131873    14%    /data
+/dev/md/dsk/d3       30983686 19198345 11475505    63%    /app
+-hosts                     0       0       0     0%    /net
+auto_home                  0       0       0     0%    /home
+-xfn                       0       0       0     0%    /xfn
+manduca5:vold(pid715)       0       0       0     0%    /vol
+manduca8:/local2/applications 15248523 11309287 3786751    75%    /cvf3
+manduca3:/af/docs/clasificado/periodico 30983686 23631352 7042498    78%    /data/af/clasificados
+manduca3:/af/docs/noticias 30983686 23631352 7042498    78%    /data/af/noticias
+nfs-manduca:/sprosan/logs 201178963 161156935 40022028    81%    /logs
+nfs-manduca:/sprosan/local2 201178963 161156935 40022028    81%    /local2
+nfs-manduca:/sprosan/local3 201178963 161156935 40022028    81%    /local3
+nfs-manduca:/sprosan/local4 201178963 161156935 40022028    81%    /local4
+manduca10:/manduca10 272480692 219774900 52705792    81%    /manduca10
+
+********************* Fin Servidor:A-manduca5 ***************************************
+
